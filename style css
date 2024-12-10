@@ -1,0 +1,9 @@
+
+ html {
+    background: #374029;
+    color: #64732F;
+}
+
+a:link {
+    color: aliceblue;
+}
